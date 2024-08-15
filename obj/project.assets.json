@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\55519\\Desktop\\ulbra\\Semestre_2\\laboratório de programacao\\aula01\\aula01\\aula01.csproj",
-      "projectName": "aula01",
-      "projectPath": "C:\\Users\\55519\\Desktop\\ulbra\\Semestre_2\\laboratório de programacao\\aula01\\aula01\\aula01.csproj",
+      "projectUniqueName": "C:\\Users\\55519\\Desktop\\ulbra\\Semestre_2\\laboratório de programacao\\aula02\\aula02.csproj",
+      "projectName": "aula02",
+      "projectPath": "C:\\Users\\55519\\Desktop\\ulbra\\Semestre_2\\laboratório de programacao\\aula02\\aula02.csproj",
       "packagesPath": "C:\\Users\\55519\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\55519\\Desktop\\ulbra\\Semestre_2\\laboratório de programacao\\aula01\\aula01\\obj\\",
+      "outputPath": "C:\\Users\\55519\\Desktop\\ulbra\\Semestre_2\\laboratório de programacao\\aula02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\55519\\AppData\\Roaming\\NuGet\\NuGet.Config"

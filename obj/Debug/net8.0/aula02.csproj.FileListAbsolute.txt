@@ -1,0 +1,14 @@
+C:\Users\55519\Desktop\ulbra\Semestre_2\laboratório de programacao\aula02\obj\Debug\net8.0\aula02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55519\Desktop\ulbra\Semestre_2\laboratório de programacao\aula02\obj\Debug\net8.0\aula02.AssemblyInfoInputs.cache
+C:\Users\55519\Desktop\ulbra\Semestre_2\laboratório de programacao\aula02\obj\Debug\net8.0\aula02.AssemblyInfo.cs
+C:\Users\55519\Desktop\ulbra\Semestre_2\laboratório de programacao\aula02\obj\Debug\net8.0\aula02.csproj.CoreCompileInputs.cache
+C:\Users\55519\Desktop\ulbra\Semestre_2\laboratório de programacao\aula02\bin\Debug\net8.0\aula02.exe
+C:\Users\55519\Desktop\ulbra\Semestre_2\laboratório de programacao\aula02\bin\Debug\net8.0\aula02.deps.json
+C:\Users\55519\Desktop\ulbra\Semestre_2\laboratório de programacao\aula02\bin\Debug\net8.0\aula02.runtimeconfig.json
+C:\Users\55519\Desktop\ulbra\Semestre_2\laboratório de programacao\aula02\bin\Debug\net8.0\aula02.dll
+C:\Users\55519\Desktop\ulbra\Semestre_2\laboratório de programacao\aula02\bin\Debug\net8.0\aula02.pdb
+C:\Users\55519\Desktop\ulbra\Semestre_2\laboratório de programacao\aula02\obj\Debug\net8.0\aula02.dll
+C:\Users\55519\Desktop\ulbra\Semestre_2\laboratório de programacao\aula02\obj\Debug\net8.0\refint\aula02.dll
+C:\Users\55519\Desktop\ulbra\Semestre_2\laboratório de programacao\aula02\obj\Debug\net8.0\aula02.pdb
+C:\Users\55519\Desktop\ulbra\Semestre_2\laboratório de programacao\aula02\obj\Debug\net8.0\aula02.genruntimeconfig.cache
+C:\Users\55519\Desktop\ulbra\Semestre_2\laboratório de programacao\aula02\obj\Debug\net8.0\ref\aula02.dll
